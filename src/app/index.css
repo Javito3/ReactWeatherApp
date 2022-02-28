@@ -1,0 +1,10 @@
+
+body {
+    background-color: rgba(92, 145, 205, 0.54)
+}
+p {
+    font-size: 20px;
+}
+.card {
+    opacity: .7;
+}
